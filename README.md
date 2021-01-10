@@ -1,1 +1,1 @@
-# comingsoon
+# Generic Coming Soon Page
